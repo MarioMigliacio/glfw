@@ -17,6 +17,7 @@ project "GLFW"
         "src/vulkan.c",
         "src/window.c",
         "src/platform.c",
+        "src/internal.h",
         "src/null_init.c",
         "src/null_monitor.c",
         "src/null_window.c",
