@@ -25,7 +25,7 @@ project "GLFW"
         "-lgdi32"
     }
 
-    systemversion "10.0.17134.0"
+    systemversion "10.0.22621.0"
     staticruntime "On"
 
     files
