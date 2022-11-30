@@ -1,6 +1,8 @@
 # The canonical out-of-tree build subdirectory
 build
-
+# Build results
+[Bb]in/
+[Bb]in-int/
 # Visual Studio clutter
 _ReSharper*
 *.sdf
